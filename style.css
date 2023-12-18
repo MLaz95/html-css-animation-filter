@@ -148,6 +148,7 @@
 /* Esercizio 9 */
 .ex-9-img:hover{
     filter: sepia(100%) opacity(0.5);
+    border-radius: 25px;
     scale: 1.2;
 }
 
